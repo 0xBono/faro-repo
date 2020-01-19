@@ -8,14 +8,15 @@ import androidx.core.app.ComponentActivity.ExtraData
 import androidx.core.content.ContextCompat.getSystemService
 import android.icu.lang.UCharacter.GraphemeClusterBreak.T
 import android.view.WindowManager
-
+import android.widget.TextView
+import kotlin.time.ClockMark
 
 class MainActivity : AppCompatActivity() {
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_SENSOR_LANDSCAPE
         requestedOrientation = ActivityInfo.SCREEN_ORIENTATION_FULL_SENSOR
+
         setContentView(R.layout.activity_main)
     }
 }
