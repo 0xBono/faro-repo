@@ -7,15 +7,15 @@
     android:background="@color/DEFAULT_BACKGROUND"
     tools:context=".MainActivity">
 
-    <TextClock
-        android:id="@+id/textClock"
+    <TextView
+        android:id="@+id/LocalTime"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="17dp"
         android:layout_marginLeft="17dp"
         android:layout_marginTop="17dp"
+        android:format12Hour="hh:mm a"
         android:layout_marginBottom="376dp"
-        android:format12Hour="hh:mm                  a"
         android:textColor="@color/WHITE_COLOR"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -25,14 +25,13 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/LocalDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="17dp"
         android:layout_marginEnd="17dp"
         android:layout_marginRight="17dp"
         android:layout_marginBottom="376dp"
-        android:text="01월 19일"
         android:textColor="@color/WHITE_COLOR"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
