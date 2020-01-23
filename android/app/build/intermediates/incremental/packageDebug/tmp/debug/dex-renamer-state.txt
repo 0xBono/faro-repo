@@ -1,0 +1,4 @@
+#Fri Jan 24 00:35:47 KST 2020
+base.0=/Users/jimin/Desktop/faro-repository/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
