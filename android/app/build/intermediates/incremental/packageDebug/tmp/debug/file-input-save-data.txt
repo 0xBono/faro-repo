@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Jan 24 00:35:48 KST 2020
+#Fri Jan 24 01:28:02 KST 2020
 64.base=/Users/jimin/Desktop/faro-repository/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 64.baseType=DIRECTORY
 33.base=/Users/jimin/Desktop/faro-repository/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
