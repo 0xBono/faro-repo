@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="WHITE_COLOR">#FFFFFF</color>
+    <color name="GRAY_COLOR">#C8C8C8</color>
+    <color name="GREEN_COLOR">#009688</color>
+    <color name="YELLOW_COLOR">#FFC107</color>
+    <color name="BLUE_COLOR">#4285F4</color>
+    <color name="PURPLE_COLOR">#6C63FF</color>
+    <color name="ORANGE_COLOR">#FF6347</color>
+
+    <!--  DEFAULT BACKGROUND  -->
+    <color name="DEFAULT_BACKGROUND">#272C30</color>
+</resources>
